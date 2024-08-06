@@ -1,0 +1,4 @@
+- Developed a simple web development project where the background color changes on button click.
+- Utilized HTML for structure, CSS for styling, and JavaScript for dynamic functionality.
+- Implemented a function to generate random hex color codes and update the background color, displaying the color code on the webpage.
+- Designed a user-friendly interface with easy navigation.
